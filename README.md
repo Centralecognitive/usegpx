@@ -10,7 +10,7 @@ output:
 
 
 <p >Pour vous aider à établir le cahier des charges de votre projet. <br>À vous de le compléter avec les informations concernant votre projet !</p>
-<div><img src="20221129_152939.png" alt="Logo de la centrale" width="40"/></div>
+<div><img src="centrale.png" alt="Logo de la centrale" width="40"/></div>
 
 ---
 *Table des matières*
